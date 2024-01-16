@@ -7,7 +7,6 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import br.com.giulianabezerra.springsecurityjwt.dtos.UserAuthenticated;
 import br.com.giulianabezerra.springsecurityjwt.model.User;
 import br.com.giulianabezerra.springsecurityjwt.repository.UserRepository;
 

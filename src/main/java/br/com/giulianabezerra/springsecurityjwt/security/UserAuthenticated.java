@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.springsecurityjwt.dtos;
+package br.com.giulianabezerra.springsecurityjwt.security;
 
 import java.util.Collection;
 import java.util.List;
